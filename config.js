@@ -53,23 +53,23 @@ global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '68673045381' //Nomor Bot
-global.nomorown = '923470027813' //Nomor Owner
+global.nomorbot = '22896017332' //Nomor Bot
+global.nomorown = '22896017332' //Nomor Owner
 global.namebot = 'Ikratos-MD-v1' //Nama Bot
 global.nameown = 'ᴀʜᴍᴀᴅ ᴀʟɪ🇵🇰' // Nama Owner
 
 
 /*============== CHATGPT ==============*/
-global.openAiapi = 'PASTE_YOUR_API_HERE'   // Get you Api-key from 'https://platform.openai.com/account/api-keys'
+global.openAiapi = 'ddf930baa239d94e3a66d79b'   // Get you Api-key from 'https://platform.openai.com/account/api-keys'
 global.org = 'PASTE_YOUR_ORG_HERE'   // Get you Org-Key from 'https://platform.openai.com/account/org-settings' 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['923470027813', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', true] //don't change this name and number
-  ['19293514545', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', false] //Replace your name and number here
+  ['22896017332', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', true] //don't change this name and number
+  ['22896017332', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', false] //Replace your name and number here
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = ['923470027813',''] //Don't replace this,If you want to add someone add any dev
+global.mods = ['22896017332',''] //Don't replace this,If you want to add someone add any dev
 global.prems = [] // Premium user is not here to add it, type .addprem @ user 10
 
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -159,7 +159,7 @@ global.fpagedoc = '999'
 /*=========== HIASAN ===========*/
 // DEFAULT MENU
 global.dmenut = 'ଓ═┅═━–〈' //top
-global.dmenub = '┊🇵🇰' //body
+global.dmenub = '┊❄️' //body
 global.dmenub2 = '┊' //body for info cmd on Default menu
 global.dmenuf = '┗––––––––––✦' //footer
 
